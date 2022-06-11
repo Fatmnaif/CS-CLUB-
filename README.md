@@ -1,5 +1,5 @@
 # CS-CLUB-
-The c# project that automates the registration process for computer science club. 
+A c# project that automates the registration process for computer science club. 
 
 ![image](https://user-images.githubusercontent.com/105481794/173206469-7ff25a7c-26d1-4ec1-869a-3af2dbea4a8b.png)
 

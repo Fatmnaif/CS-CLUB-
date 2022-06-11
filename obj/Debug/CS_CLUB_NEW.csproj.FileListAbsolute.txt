@@ -1,0 +1,16 @@
+c:\users\fatima\documents\visual studio 2012\Projects\CS_CLUB_NEW\CS_CLUB_NEW\bin\Debug\CS_CLUB_NEW.exe.config
+c:\users\fatima\documents\visual studio 2012\Projects\CS_CLUB_NEW\CS_CLUB_NEW\bin\Debug\CS_CLUB_NEW.exe
+c:\users\fatima\documents\visual studio 2012\Projects\CS_CLUB_NEW\CS_CLUB_NEW\bin\Debug\CS_CLUB_NEW.pdb
+c:\users\fatima\documents\visual studio 2012\Projects\CS_CLUB_NEW\CS_CLUB_NEW\obj\Debug\CS_CLUB_NEW.csprojResolveAssemblyReference.cache
+c:\users\fatima\documents\visual studio 2012\Projects\CS_CLUB_NEW\CS_CLUB_NEW\obj\Debug\CS_CLUB_NEW.Form1.resources
+c:\users\fatima\documents\visual studio 2012\Projects\CS_CLUB_NEW\CS_CLUB_NEW\obj\Debug\CS_CLUB_NEW.login.resources
+c:\users\fatima\documents\visual studio 2012\Projects\CS_CLUB_NEW\CS_CLUB_NEW\obj\Debug\CS_CLUB_NEW.Properties.Resources.resources
+c:\users\fatima\documents\visual studio 2012\Projects\CS_CLUB_NEW\CS_CLUB_NEW\obj\Debug\CS_CLUB_NEW.signup.resources
+c:\users\fatima\documents\visual studio 2012\Projects\CS_CLUB_NEW\CS_CLUB_NEW\obj\Debug\CS_CLUB_NEW.csproj.GenerateResource.Cache
+c:\users\fatima\documents\visual studio 2012\Projects\CS_CLUB_NEW\CS_CLUB_NEW\obj\Debug\CS_CLUB_NEW.exe
+c:\users\fatima\documents\visual studio 2012\Projects\CS_CLUB_NEW\CS_CLUB_NEW\obj\Debug\CS_CLUB_NEW.pdb
+c:\users\fatima\documents\visual studio 2012\Projects\CS_CLUB_NEW\CS_CLUB_NEW\obj\Debug\CS_CLUB_NEW.AdminProfile.resources
+c:\users\fatima\documents\visual studio 2012\Projects\CS_CLUB_NEW\CS_CLUB_NEW\obj\Debug\CS_CLUB_NEW.memberprofile.resources
+c:\users\fatima\documents\visual studio 2012\Projects\CS_CLUB_NEW\CS_CLUB_NEW\obj\Debug\CS_CLUB_NEW.changepassword.resources
+c:\users\fatima\documents\visual studio 2012\Projects\CS_CLUB_NEW\CS_CLUB_NEW\obj\Debug\CS_CLUB_NEW.Memberevent.resources
+C:\Users\FATIMA\Documents\Visual Studio 2012\Projects\CS_CLUB_NEW\CS_CLUB_NEW\obj\Debug\CS_CLUB_NEW.AdminEvent1.resources
